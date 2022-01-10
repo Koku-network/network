@@ -11,3 +11,8 @@ Prerequisites:
 `sudo systemctl start clarinet` - start the service
 `sudo systemctl stop clarinet` - stop the service
 `journalctl -u clarinet -f` - check out and follow logs
+
+## Endpoints
+stacks-api - http://3.121.232.80:3999/
+stacks-explorer - http://3.121.232.80:8000/
+blockchain-explorer - http://3.121.232.80:8001/
