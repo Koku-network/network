@@ -13,6 +13,6 @@ Prerequisites:
 `journalctl -u clarinet -f` - check out and follow logs
 
 ## Endpoints
-stacks-api - http://3.121.232.80:3999/
-stacks-explorer - http://3.121.232.80:8000/
-blockchain-explorer - http://3.121.232.80:8001/
+stacks-api - http://3.64.221.107:3999/
+stacks-explorer - http://3.64.221.107:8000/
+blockchain-explorer - http://3.64.221.107:8001/
