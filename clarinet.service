@@ -9,6 +9,7 @@ Restart=always
 RestartSec=1
 User=ubuntu
 ExecStart=sudo sh /home/ubuntu/run.sh
+ExecStop=sudo sh /home/ubuntu/cleanup.sh
 
 [Install]
 WantedBy=multi-user.target
